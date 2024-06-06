@@ -1,6 +1,6 @@
 # Hola👋 soy Javier
 ## Sobre mi:
-  - Estudio en la UdeC, Concepción 🏙️
+  - Estudio en la [UdeC](https://www.udec.cl/), Concepción 🏙️
   - Toco el piano 🎶🎹
   - Estudiante de 2do año en Ing. Civil Informática 🐒
   - Contacto personal: [camposjavier143@gmail.com](mailto:camposjavier143@gmail.com) 😎
