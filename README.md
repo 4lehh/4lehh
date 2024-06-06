@@ -1,6 +1,6 @@
 # Hola👋 soy Javier
 
-##Skills:
+## Skills:
   - C ⚡
   - Java ⚡
   - Python ⚡
