@@ -2,7 +2,7 @@
 ## Sobre mi:
   - Estudio en la [UdeC](https://www.udec.cl/), Concepción 🏙️
   - Toco el piano 🎶🎹
-  - Estudiante de 2do año en Ing. Civil Informática 🐒
+  - Estudiante de 2do año en Ing. Civil Informática desde 2023 🐒
   - Contacto personal: [camposjavier143@gmail.com](mailto:camposjavier143@gmail.com) 😎
   - Me gusta colaborar en proyectos 🤓
   - <a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer">
