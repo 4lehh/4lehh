@@ -9,24 +9,9 @@
 <img src="https://img.shields.io/github/followers/huebitoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=huebitoo&theme=react-dark)
 
-<br/>
-
-<h2 align="center">☕ Estadisticas</h2>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=huebitoo&show_icons=true&count_private=true&theme=java-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=huebitoo&layout=compact&hide_border=true&theme=java-dark&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=huebitoo&theme=java-dark&hide_border=true&background=FFFFFF00">
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=huebitoo&theme=tokyonight"/>
-</p>
-
-<h2 align="center">⚡ My Skills</h2>
-
-<h4 align="center">💻 Programming languages</h4>
+<h4 align="center">💻 Lenguajes de programación</h4>
 
 <p align="center">
 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
