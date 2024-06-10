@@ -1,5 +1,6 @@
-# Hola👋 soy Javier
-## Sobre mi:
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=huebitoo&theme=radical' width='25%'>
+
+## Hola👋 soy Javier, sobre mi:
   - Estudio en la [UdeC](https://www.udec.cl/), Concepción 🏙️
   - Toco el piano 🎶🎹
   - Estudiante de 2do año en Ing. Civil Informática desde 2023 🐒
