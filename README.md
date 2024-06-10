@@ -32,6 +32,8 @@
 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-14354C.svg?&logoColor=white">
+<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+
 
 <h4 align="center">⚙ Software</h4>
 
