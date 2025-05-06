@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,cpp,django,bash&perline=12" />
   </a>
 </p>
 
@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,markdown,latex&perline=12" />
   </a>
 </p>
