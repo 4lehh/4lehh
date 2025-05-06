@@ -6,7 +6,7 @@
 * 🥸`I'm`: **20 years old**,
 * 👾 `I’m currently learning`: **Python**,
 * ❤️ `I love`: **Anime, Music & Videogames**  ,
-* 💻 `Favorite lang`: **C**
+* 💻 `Favorite lang`: **C++/Python**
 
 <br/>
 <br/>
